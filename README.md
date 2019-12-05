@@ -1,12 +1,12 @@
 # *[Poner aquí el Título del Proyecto]*
 ---
-#### Materia: *[Poner aquí nombre de la materia]*
+#### Materia: *Desarrollo de aplicaciones en la nube*
 
-##### Campus: *[Poner aquí su campus]*
+##### Campus: *CSF*
 
 ##### Integrantes:
-1. *[Poner aquí Nombre y Apellidos del integrante 1]*
-2. *[Poner aquí Nombre y Apellidos del integrante 2]*
+1. *Enrique Vadillo Calva*
+2. *-*
 
 ---
 ## 1. Aspectos generales
